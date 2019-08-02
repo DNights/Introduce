@@ -23,4 +23,4 @@
 
 ## 개인 프로젝트 & 샘플코드
 - KoinSampleTest (https://github.com/DNights/KoinSampleTest)
-- Ddayer (https://github.com/DNights/Ddayer)
+- Ddayer
