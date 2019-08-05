@@ -3,7 +3,7 @@
 
 현재 __"DevOps, Code Repectoring"__ 이 주요 관심사 입니다.
 
-시간날 때 [Exercism](https://exercism.io) 에서 __Kotlin, Python__ 등의 문제를 풀고 있습니다.
+시간날 때 [Exercism](https://exercism.io) 에서 __Java, Kotlin, Python__ 등의 문제를 풀고 있습니다.
 
 테스트 코드를 작성하여 개발하려 노력중입니다. (습관을 들이는 중...)
 
