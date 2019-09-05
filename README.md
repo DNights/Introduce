@@ -27,3 +27,4 @@
 - KoinSampleTest (https://github.com/DNights/KoinSampleTest)
 - CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RestApiSample (https://github.com/DNights/RestAPISample)
+- RxSubjectSample (https://github.com/DNights/rxSubjectSample)
