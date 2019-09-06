@@ -1,9 +1,13 @@
 # 경력사항
 
-## [13마일](http://www.13mile.co.kr/)
+## 13마일
 - 2017.02 ~ 현재
 - R&D기술개발팀 / 대리
 - 안드로이드 개발
+
+### Link
+- http://www.13mile.co.kr/
+- http://next-m.kr/
 
 ### Project List
 - __NEXT-M 안드로이드 앱 Refactoring (2018.2 - 2018.12)__
@@ -47,10 +51,14 @@
     + 프로젝트를 SDK로 변환하여 외부에 배포 가능하도록 수정 및 API관리 
     + 프로젝트 버전 관리 및 유지보수
 -----    
-## (주)넷앤티비
+## 넷앤티비
 - 2013.11 ~ 2015.02 (1년 3개월)
 - dmb연구소 / 연구원
 - 안드로이드 개발
+
+### Link
+- http://www.jobkorea.co.kr/Recruit/Co_Read/C/netntv
+- http://www.saramin.co.kr/zf_user/company-info/view?csn=1208609390
 
 ### Project List
 - __KBS 콘피아 안드로이드 앱 개발 (2014.9 - 2015.2)__
