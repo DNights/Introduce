@@ -9,8 +9,8 @@
 
 ## Career
 - 안드로이드 개발 5년차
-- 현재 13마일 R&D부문 기술개발팀 재직중 
 - [경력기술서](https://github.com/DNights/Introduce/blob/master/Career.md)
+- 현재 13마일 R&D부문 기술개발팀 재직중 
 - Slack , Jira 사용 경험
 
 ## Links
