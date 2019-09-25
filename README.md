@@ -26,8 +26,6 @@
 ## Toy Project & Sample code
 - Ddayer (https://play.google.com/store/apps/details?id=com.ddayer.dn)
 
-- KoinSampleTest (https://github.com/DNights/KoinSampleTest)
-- CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RestApiSample (https://github.com/DNights/RestAPISample)
+- CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RxSubjectSample (https://github.com/DNights/rxSubjectSample)
-- LiveDataSample (https://github.com/DNights/LiveDataSample)
