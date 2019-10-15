@@ -29,3 +29,5 @@
 - RestApiSample (https://github.com/DNights/RestAPISample)
 - CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RxSubjectSample (https://github.com/DNights/rxSubjectSample)
+- LiveDataSample (https://github.com/DNights/LiveDataSample)
+- BitriseSample (https://github.com/DNights/BitriseSample)
