@@ -10,6 +10,13 @@
 - http://next-m.kr/
 
 ### Project List
+- __NEXT-M 안드로이드 앱 개발 및 유지보수 (2017.2 - 2019.10)__
+    + NEXT-M 결제서비스 제작 및 유지보수
+    + Retrofit2 을 이용하여 RestAPI 통신 (카카오페이 / SSG Pay / 알리페이 / APPCard 등)
+    + 카메라를 사용한 QR 코드 인식
+    + USB Manger을 이용하여 결제 단말기와 Serial 통신
+    + 결제사 제공 SDK 연동
+
 - __NEXT-M 안드로이드 앱 Refactoring (2018.2 - 2018.12)__
     + NEXT-M APP Java에서 Kotlin으로 변경
     + Rx 적용하여 Refactoring
@@ -25,17 +32,11 @@
     + QR 코드를 안드로이드 테블릿의 카메라를 통해 인식하여 쿠폰을 사용하는 기능 개발
     + 쿠폰을 조회/사용 기능 RestAPI 연동 및 UI개발
 
-- __커피 자판기 화면 및 USB Serial 통신 개발 (2018.1 - )__
+- __커피 자판기 화면 및 USB Serial 통신 개발 (2018.1 - 2019.10)__
     + 안드로이드 테블릿의 USB를 사용하여 PCV 보드와 USB SERIAL 통신
     + UI/UX 개발
     + 지속적인 기능 추가 및 유지보수
-
-- __NEXT-M 안드로이드 앱 개발 및 유지보수 (2017.2 - )__
-    + NEXT-M 결제서비스 제작 및 유지보수
-    + Retrofit2 을 이용하여 RestAPI 통신 (카카오페이 / SSG Pay / 알리페이 / APPCard 등)
-    + 카메라를 사용한 QR 코드 인식
-    + USB Manger을 이용하여 결제 단말기와 Serial 통신
-    + 결제사 제공 SDK 연동
+    
 -----
 ## Retech
 - 2015.03 ~ 2016.11 (1년 8개월)
