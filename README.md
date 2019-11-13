@@ -30,4 +30,5 @@
 - CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RxSubjectSample (https://github.com/DNights/rxSubjectSample)
 - LiveDataSample (https://github.com/DNights/LiveDataSample)
+- CircularViewPager (https://github.com/DNights/CircularViewPager)
 - BitriseSample (https://github.com/DNights/BitriseSample)
