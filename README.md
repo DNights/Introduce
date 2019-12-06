@@ -17,11 +17,7 @@
 - E-mail - guehgk456@gmail.com
 - Blog - https://dnight.tistory.com
 - GitHub - https://github.com/DNights
-
-## GitHub Project
-**[13MILE Project]**
-- Android Cheat (https://github.com/13mile/AndroidCheat)
-- nextm-lib (https://github.com/13mile/nextm-lib)
+- 로켓펀치(rocketpunch) - https://www.rocketpunch.com/@guehgk456
 
 ## Toy Project & Sample code
 - Ddayer (https://play.google.com/store/apps/details?id=com.ddayer.dn)
