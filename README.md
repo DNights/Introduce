@@ -28,3 +28,4 @@
 - LiveDataSample (https://github.com/DNights/LiveDataSample)
 - CircularViewPager (https://github.com/DNights/CircularViewPager)
 - BitriseSample (https://github.com/DNights/BitriseSample)
+- ScopedStorageSample (https://github.com/DNights/AndroidScopedStorageSample)
