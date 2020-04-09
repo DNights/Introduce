@@ -10,7 +10,10 @@
 - https://sinsangmarket.kr/
 
 ### Project List
-- __신상마켓 안드로이드 앱 개발 및 유지보수 (2019.10 - )__
+- __신상마켓 안드로이드 앱 개발 및 유지보수 (2019.10 - 현재)__
+    + Google play InApp Update 개발
+    + Java -> kotlin convert
+    + Retrofit2,Rx 사용하여 API Module 제작
 
 ## 13마일
 - 2017.02 ~ 2019.10
