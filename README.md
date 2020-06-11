@@ -11,7 +11,6 @@
 - 안드로이드 개발 7년
 - 현재 딜리셔스 재직중(연구개발팀_모바일) (https://dealicious.kr)
 - [경력기술서](https://github.com/DNights/Introduce/blob/master/Career.md)
-- Slack , Jira , Zeplin 사용 경험
 
 ## Links
 - E-mail - guehgk456@gmail.com
