@@ -19,13 +19,16 @@
 - GitHub - https://github.com/DNights
 - 로켓펀치(rocketpunch) - https://www.rocketpunch.com/@guehgk456
 
-## Toy Project & Sample code
+## Toy Project
 - Ddayer (https://play.google.com/store/apps/details?id=com.ddayer.dn)
 
+## Open Source Project
+- CircularViewPager (https://github.com/DNights/CircularViewPager)
+
+## Sample code
 - RestApiSample (https://github.com/DNights/RestAPISample)
 - CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
 - RxSubjectSample (https://github.com/DNights/rxSubjectSample)
 - LiveDataSample (https://github.com/DNights/LiveDataSample)
-- CircularViewPager (https://github.com/DNights/CircularViewPager)
 - ScopedStorageSample (https://github.com/DNights/AndroidScopedStorageSample)
 - RxBusSample (https://github.com/DNights/RxBusSample)
