@@ -15,6 +15,8 @@
     + Google play InApp Update 개발
     + Java -> kotlin convert
     + Retrofit2,Rx 사용하여 API Module 제작
+- __사내사입 앱 개발 (2020.1 ~ 2020.6)__
+    + 일부 UI 및 기능 개발 (참여율 20%)
 
 ## 13마일
 - 2017.02 ~ 2019.10 (2년 8개월)
