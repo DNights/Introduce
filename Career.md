@@ -8,6 +8,7 @@
 ### Link
 - https://dealicious.kr/
 - https://sinsangmarket.kr/
+- https://play.google.com/store/apps/details?id=net.deali.ssmarket
 
 ### Project List
 - __신상마켓 안드로이드 앱 개발 및 유지보수 (2019.10 - 현재)__
