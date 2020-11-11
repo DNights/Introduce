@@ -8,7 +8,7 @@
 테스트 코드를 작성하여 개발하려 노력중입니다.
 
 ## Career
-- 안드로이드 개발 7년
+- 안드로이드 개발 8년
 - 현재 딜리셔스 재직중(연구개발팀_모바일) (https://dealicious.kr)
 - [경력기술서](https://github.com/DNights/Introduce/blob/master/Career.md)
 
