@@ -20,6 +20,3 @@
 
 ## Toy Project
 - Ddayer (https://play.google.com/store/apps/details?id=com.ddayer.dn)
-
-## Open Source Project
-- CircularViewPager (https://github.com/DNights/CircularViewPager)
