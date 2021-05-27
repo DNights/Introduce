@@ -23,11 +23,3 @@
 
 ## Open Source Project
 - CircularViewPager (https://github.com/DNights/CircularViewPager)
-
-## Sample code
-- RestApiSample (https://github.com/DNights/RestAPISample)
-- CoroutinesSampleTest (https://github.com/DNights/CoroutinesSampleTest)
-- RxSubjectSample (https://github.com/DNights/rxSubjectSample)
-- LiveDataSample (https://github.com/DNights/LiveDataSample)
-- ScopedStorageSample (https://github.com/DNights/AndroidScopedStorageSample)
-- RxBusSample (https://github.com/DNights/RxBusSample)
