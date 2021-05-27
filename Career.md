@@ -7,6 +7,7 @@
 
 ### Link
 - https://dealicious.kr/
+- https://www.notion.so/e8747fb16efe4f1ba7747e7f96f9d373
 - https://sinsangmarket.kr/
 - https://play.google.com/store/apps/details?id=net.deali.ssmarket
 
