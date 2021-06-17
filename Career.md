@@ -29,8 +29,8 @@
 - 안드로이드 개발
 
 ### Link
-- http://www.13mile.co.kr/
-- http://next-m.kr/
+- https://www.saramin.co.kr/zf_user/company-info/view/csn/c0lIYmI0d1BCREpnMGpneC9IdmZTdz09/company_nm/(%EC%A3%BC)13%EB%A7%88%EC%9D%BC
+- https://www.jobkorea.co.kr/Recruit/Co_Read/C/13mile
 
 ### Project List
 - __NEXT-M 안드로이드 앱 개발 및 유지보수 (2017.2 - 2019.10)__
@@ -89,7 +89,6 @@
 - 안드로이드 개발
 
 ### Link
-- https://studio4ux.tistory.com/
 - http://www.jobkorea.co.kr/Recruit/Co_Read/C/netntv
 - http://www.saramin.co.kr/zf_user/company-info/view?csn=1208609390
 
